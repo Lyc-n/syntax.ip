@@ -3,12 +3,12 @@
 [![Teknologi: Next.js](https://img.shields.io/badge/Framework-Next.js-black.svg)](https://nextjs.org/)
 [![Gaya: Tailwind CSS](https://img.shields.io/badge/Gaya-Tailwind%20CSS-teal.svg)](https://tailwindcss.com/)
 [![Data: dummyjson](https://img.shields.io/badge/API-dummyjson.com-red.svg)](https://dummyjson.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/JQLbDoI87KA)
 
-![Tangkapan Layar Halaman Produk](/public/1.jpg)
-![Tangkapan Layar Halaman Produk](/public/2.jpg)
+![Tangkapan Layar Halaman Produk](/public/1.ppg)
+![Tangkapan Layar Halaman Produk](/public/2.ppg)
 ![Tangkapan Layar Halaman Produk](/public/3.png)
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/JQLbDoI87KA)
 
 ## 🌟 Deskripsi Proyek
 
