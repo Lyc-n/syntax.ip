@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛒 Proyek Web Jual Beli Sederhana (Simple E-commerce Web)
 
-## Getting Started
+[![Teknologi: Next.js](https://img.shields.io/badge/Framework-Next.js-black.svg)](https://nextjs.org/)
+[![Gaya: Tailwind CSS](https://img.shields.io/badge/Gaya-Tailwind%20CSS-teal.svg)](https://tailwindcss.com/)
+[![Data: dummyjson](https://img.shields.io/badge/API-dummyjson.com-red.svg)](https://dummyjson.com/)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Deskripsi Proyek
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Proyek ini adalah implementasi **Web Jual Beli Sederhana** yang dibangun sebagai pemenuhan **Tugas Projek Mandiri Pemrograman Berbasis Platform (PBP)** tahun ini.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Aplikasi ini bertujuan untuk menampilkan daftar produk, harga, dan gambar produk secara dinamis. Antarmuka pengguna dirancang agar **responsif, modern, dan menarik** menggunakan teknologi terkini.
 
-## Learn More
+### Fitur Utama:
 
-To learn more about Next.js, take a look at the following resources:
+* **Tampilan Produk Dinamis:** Menampilkan produk, harga, dan gambar yang diambil dari API.
+* **Antarmuka Pengguna Modern:** Menggunakan desain berbasis utilitas dengan Tailwind CSS.
+* **Pengalaman Pengguna Interaktif:** Integrasi animasi halus menggunakan **Framer Motion** untuk sentuhan premium.
+* **Komponen yang Dapat Digunakan Kembali:** Memanfaatkan komponen UI dari **Shadcn/ui**.
+* **Dukungan Ikon:** Menggunakan **React Icons** untuk visual yang jelas.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tumpukan Teknologi (Tech Stack)
 
-## Deploy on Vercel
+Proyek ini dibangun menggunakan kombinasi teknologi modern untuk performa dan skalabilitas yang optimal:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Kategori | Teknologi | Deskripsi |
+| :--- | :--- | :--- |
+| **Framework** | **Next.js** (React) | Framework React untuk *rendering* sisi server yang efisien. |
+| **Bahasa** | **JavaScript** | Bahasa pemrograman utama. |
+| **Gaya** | **Tailwind CSS** | Kerangka kerja CSS *utility-first* untuk *styling* yang cepat dan fleksibel. |
+| **Data** | **dummyjson.com** | API *mock* gratis untuk menyediakan data produk. |
+| **Animasi** | **Framer Motion** | Library untuk membuat animasi UI yang lancar dan interaktif. |
+| **UI/UX** | **Shadcn/ui** | Kumpulan komponen UI yang dapat disesuaikan dan diakses. |
+| **Ikon** | **React Icons** | Kumpulan ikon populer untuk memperkaya antarmuka. |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🚀 Instalasi dan Menjalankan Proyek
+
+Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal di mesin Anda.
+
+### Prasyarat
+
+Pastikan Anda telah menginstal **Node.js** (disarankan versi LTS) dan **npm** atau **Yarn**.
+
+### Langkah-langkah
+
+1.  **Kloning Repositori:**
+    ```bash
+    git clone https://github.com/Lyc-n/syntax.ip
+    cd nama-folder-proyek
+    ```
+
+2.  **Instal Dependensi:**
+    ```bash
+    npm install
+    # atau
+    yarn install
+    ```
+
+3.  **Jalankan Server Pengembangan:**
+    ```bash
+    npm run dev
+    # atau
+    yarn dev
+    ```
+
+4.  **Akses Aplikasi:**
+    Buka *browser* Anda dan kunjungi `http://localhost:3000`.
+
+---
+
+## 🎨 Desain dan Tampilan
+
+Kami menggunakan **Tailwind CSS** yang dipadukan dengan komponen berkualitas dari **Shadcn/ui** untuk menciptakan desain yang bersih dan *user-friendly*.
+
+Aspek penting dari desain ini adalah:
+
+1.  **Responsif:** Tampilan yang optimal di berbagai ukuran layar (desktop, tablet, *mobile*).
+2.  **Visual Menarik:** Pemanfaatan **gambar produk** dan **animasi halus** (**Framer Motion**) untuk *engagement* pengguna yang lebih baik.
+
+## 👤 Kontributor
+
+Proyek ini dibuat oleh:
+
+* **Feri Romadoni** - (Sebagai pemenuhan Tugas Projek Mandiri PBP)
+
+---

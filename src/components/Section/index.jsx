@@ -2,7 +2,7 @@ import CardProduct from "../Card";
 
 export default async function Section() {
   const allProducts = await fetch(
-    `${process.env.NEXT_PUBLIC_API_BASE_URL}/products?limit=40`
+    `${process.env.NEXT_PUBLIC_API_BASE_URL}/products?limit=200`
   );
   const allDatas = await allProducts.json();
 
